@@ -1,6 +1,6 @@
 # projeto-curso-git
 
-## Projeto Git e Github
+## Usandoo Git e Github
 
 Projeto inspirado em um Bootcamp da Digital Innovation One que incluía cursos voltados ao aprendizado do uso do Git e do Github.
 
